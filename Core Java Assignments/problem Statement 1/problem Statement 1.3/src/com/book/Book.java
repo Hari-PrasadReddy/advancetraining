@@ -1,6 +1,8 @@
 package com.book;
 
 public class Book {
+
+
 	private String booktitile;
 	private int bookprice;
 	public String getBooktitile() {
@@ -17,4 +19,3 @@ public class Book {
 	}
 
 }
-
